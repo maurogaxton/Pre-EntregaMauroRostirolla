@@ -167,7 +167,7 @@ public class Main {
     }
 
     /* UTILIDADES */
-    /* Busqueda por id - ahora mismo solo funciona con el indice, en el futuro se va a cambiar */
+    /* Busqueda por Id - ahora mismo solo funciona con el índice, en el futuro se va a cambiar */
     public static Jugador obtenerJugadorPorId(List<Jugador> jugadores) {
         // TODO: validacion de datos
         System.out.println("Ingrese el id del jugador: ");
